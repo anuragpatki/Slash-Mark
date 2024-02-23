@@ -7,7 +7,7 @@
 
 ### Task 1 : DALL·E 2 - Text to Art 
 Prompts to make Text to Art
- 1) an illustration of a baby daikon radish in a tutu walking a dog. [(open-1)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.1.1.jpg) [(open-2)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.1.2.jpg)
+ 1) an illustration of a baby daikon radish in a tutu walking a dog. [(open-1)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.1.1.jpg) , [(open-2)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.1.2.jpg)
  2) an armchair in the shape of an avocado. [(open-1)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.2.1.jpg) , [(open-2)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.2.2.jpg)
  3) a store front that has the word ‘Slash Mark’ written on it. [(open-1)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.3.1.jpg) , [(open-2)](https://github.com/anuragpatki/Slash-Mark/blob/main/Images/Task1.3.2.jpg)
 
